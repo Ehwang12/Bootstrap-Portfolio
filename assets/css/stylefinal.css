@@ -10,9 +10,15 @@
 }
 
 /*----------------------------*/
-/* body */
+/* main body */
 /*----------------------------*/
+
+body {
+    background: #aeddcd;
+}
+
 .container {
+    
     width: 960px;
 }
 
@@ -23,6 +29,10 @@
     background: grey;
     overflow: auto;
 
+}
+
+.lineBreak {
+    margin-bottom: 3%;
 }
 
 h1 {
@@ -37,6 +47,15 @@ img {
 p {
     font-family: 'Raleway', sans-serif;
 }
+
+/*----------------------------*/
+/* Portfolio */
+/*----------------------------*/
+
+.center {
+    text-align: center;
+}
+
 /*----------------------------*/
 /* footer */
 /*----------------------------*/
