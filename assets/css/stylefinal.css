@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+/*----------------------------*/
+/* navbar */
+/*----------------------------*/
+.navbar {
+    font-family: 'Comfortaa', cursive;
+}
+
+/*----------------------------*/
+/* body */
+/*----------------------------*/
+.container {
+    width: 960px;
+}
+
+.maincontent {
+    display: block;
+    margin-top:5%;
+    margin-bottom: 15%;
+    background: grey;
+    overflow: auto;
+
+}
+
+h1 {
+    margin-top: .5em;
+    font-family: 'Comfortaa', cursive;
+}
+
+img {
+    margin-bottom: 1em;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+/*----------------------------*/
+/* footer */
+/*----------------------------*/
+
+footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+  }
+
+  
